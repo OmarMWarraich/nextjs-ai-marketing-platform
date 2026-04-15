@@ -23,7 +23,7 @@ Real-World Projects: Build real applications with ease and efficiency.
 Time-Saving Templates: I’m giving away templates that’ll help you code like a pro right from the start.
 If you have any questions, please drop a commend down below!
 Cheers,
-Brandon Hancock
+Omar Mohammad
 P.S.
 Here’s a link to the source code: https://github.com/bhancockio/claude-crash-course-templates
 P.P.S
@@ -44,7 +44,7 @@ Real Code Examples: This tutorial is packed with practical examples using the la
 Don’t wait! Click the link below to watch the RAG tutorial and start building your own AI projects today.
 I'm really looking forward to seeing the amazing things you'll create with RAG and CrewAI. If you have any ideas or suggestions for future videos, please drop them below!
 Cheers,
-Brandon Hancock 🥂🤖
+Omar Mohammad 🥂🤖
 P.S.
 Because you guys are awesome, here's a link to the source code ❤️
 https://github.com/bhancockio/crewai-rag-deep-dive
@@ -62,7 +62,7 @@ Real Code Examples: I've packed this masterclass with over 20 code examples usin
 Don’t wait! Click the link below to watch the LangChain Masterclass and start building your own AI projects today.
 I'm really looking forward to seeing the amazing things you'll create with LangChain. If you have any ideas or suggestions for future videos, please drop them below!
 Best,
-Brandon Hancock 🥂🧑‍💻
+Omar Mohammad 🥂🧑‍💻
 P.S.
 Because you guys are awesome, here's a link to the source code ❤️
 https://github.com/bhancockio/langchain-crash-course

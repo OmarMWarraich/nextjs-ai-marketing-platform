@@ -34,7 +34,7 @@ If you have any questions or need extra support, be sure to join the free Skool 
 
 Cheers,
 
-Brandon Hancock
+Omar Mohammad
 
 P.S.
 
@@ -70,7 +70,7 @@ If you have any questions or need guidance, head over to the free Skool communit
 
 Cheers,
 
-Brandon Hancock
+Omar Mohammad
 
 P.S.
 

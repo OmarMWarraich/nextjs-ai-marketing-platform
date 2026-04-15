@@ -31,7 +31,7 @@ Don’t wait! Click the link below in the comments to watch the LangChain Master
 I'm really looking forward to seeing the amazing things you'll create with LangChain. If you have any ideas or suggestions for future videos, please drop them below!
 
 Best,
-Brandon Hancock 🥂🧑‍💻
+Omar Mohammad 🥂🧑‍💻
 
 ```
 

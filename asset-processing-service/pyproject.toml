@@ -2,7 +2,7 @@
 name = "asset-processing-service"
 version = "0.1.0"
 description = ""
-authors = ["Brandon Hancock <brandon@brandonhancock.io>"]
+authors = ["Omar M Warraich <top-gear-technologies-llc.vercel.app>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

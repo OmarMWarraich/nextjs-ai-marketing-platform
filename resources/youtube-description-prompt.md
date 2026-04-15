@@ -27,8 +27,8 @@ https://www.skool.com/ai-developer-accelerator/classroom/017dba63​
 In this crash course, I guide you through mastering Claude and building lightning-fast AI applications. You'll learn how to leverage Claude's capabilities to build apps 10x faster, including working with Projects, Artifacts, and knowledge bases. Plus, I'll walk you through my secret 3-step process that has helped me streamline code development at an AI startup and for my YouTube projects. The video includes plenty of real-world examples, and all the templates are available for free!
 
 📰 Stay updated with my latest projects and insights:
-LinkedIn: https://www.linkedin.com/in/brandon-hancock-ai/
-Twitter: https://twitter.com/bhancock_ai
+LinkedIn: https://www.linkedin.com/in/o-va/
+Twitter: https://twitter.com/omarwarraich1
 
 Checkout my other tutorials:
 LangChain Tutorial - https://youtu.be/yF9kGESAi3M
@@ -58,8 +58,8 @@ https://www.skool.com/ai-developer-accelerator/classroom/017dba63​
 In this masterclass, I guide you through mastering LangChain and building powerful AI applications, including integrating Chat Models like ChatGPT, Claude, and Gemini, creating RAG chatbots, automating workflows with chains, and developing intelligent AI agents with custom tools. The video includes over 20 real code examples, and all the source code is available for free!
 
 📰 Stay updated with my latest projects and insights:
-LinkedIn: https://www.linkedin.com/in/brandon-hancock-ai/
-Twitter: https://twitter.com/bhancock_ai
+LinkedIn: https://www.linkedin.com/in/o-va/
+Twitter: https://twitter.com/omarwarraich1
 
 Checkout my CrewAI Tutorials:
 - CrewAI Tutorial: Complete Crash Course for Beginners - https://youtu.be/sPzc6hMg7So
