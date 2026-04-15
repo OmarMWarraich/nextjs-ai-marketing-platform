@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FaXTwitter, FaYoutube } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
   return (
