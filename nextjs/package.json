@@ -25,7 +25,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dotenv": "^16.4.5",
-    "drizzle-orm": "^0.33.0",
+    "drizzle-orm": "^0.45.2",
     "js-tiktoken": "^1.0.14",
     "lucide-react": "^0.441.0",
     "next": "14.2.11",
