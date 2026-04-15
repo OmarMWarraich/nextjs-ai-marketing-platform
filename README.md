@@ -91,6 +91,11 @@ Notes:
 
 - `POSTGRES_URL_NON_POOLING`, `POSTGRES_URL_NO_SSL`, `POSTGRES_PRISMA_URL`, `POSTGRES_USER`, `POSTGRES_PASSWORD`, `POSTGRES_HOST`, and `POSTGRES_DATABASE` may exist in hosted environments, but this code directly requires only `POSTGRES_URL`.
 - Non-`NEXT_PUBLIC_` values remain server-only in Next.js. Only expose values with the `NEXT_PUBLIC_` prefix when they are intended for the browser.
+- Generate a strong shared `SERVER_API_KEY` with:
+
+```bash
+openssl rand -hex 32
+```
 
 ### Asset-processing service
 
